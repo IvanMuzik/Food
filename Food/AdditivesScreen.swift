@@ -14,6 +14,7 @@ class AdditivesScreen: UIViewController {
     @IBOutlet var swichOutlet: [UISwitch]!
     var payScreen = PayScreen()
     
+    // hello Git
     
     override func viewDidLoad() {
         super.viewDidLoad()
